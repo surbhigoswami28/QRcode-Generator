@@ -19,7 +19,7 @@ body{
 #mainContainer{
     height: 100vh;
     width: 100vw;
-    background-image: url('./images/qrBg.jpg');
+    background-image: url('/qrBg.jpg');
     background-size: cover;
     display: flex;
     justify-content: center;
